@@ -34,7 +34,7 @@ targets:
     workspace:
       host: https://e2-demo-field-eng.cloud.databricks.com
 
-  test:
+  alex_dev:
     workspace:
       host: https://e2-demo-field-eng.cloud.databricks.com
 
